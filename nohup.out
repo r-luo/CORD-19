@@ -1,0 +1,71 @@
+[I 00:10:17.421 NotebookApp] [jupyter_nbextensions_configurator] enabled 0.4.1
+[I 00:10:17.714 NotebookApp] JupyterLab extension loaded from /home/rluo/anaconda3/envs/nlp/lib/python3.7/site-packages/jupyterlab
+[I 00:10:17.714 NotebookApp] JupyterLab application directory is /home/rluo/anaconda3/envs/nlp/share/jupyter/lab
+[I 00:10:17.988 NotebookApp] Serving notebooks from local directory: /mnt/raid/projects/CORD-19
+[I 00:10:17.988 NotebookApp] The Jupyter Notebook is running at:
+[I 00:10:17.988 NotebookApp] http://localhost:9000/
+[I 00:10:17.988 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 00:14:29.393 NotebookApp] 302 GET / (127.0.0.1) 0.93ms
+[I 00:14:29.413 NotebookApp] 302 GET /tree? (127.0.0.1) 1.44ms
+[I 00:14:34.735 NotebookApp] 302 POST /login?next=%2Ftree%3F (127.0.0.1) 2.35ms
+[I 00:14:49.187 NotebookApp] Creating new notebook in 
+[I 00:14:53.232 NotebookApp] Kernel started: 119aebf4-4d83-46f3-8e9e-fbb86f28ccda
+[W 00:14:53.254 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20200406001017 (127.0.0.1) 15.92ms referer=http://localhost:9000/notebooks/Untitled.ipynb?kernel_name=python3
+[I 00:15:04.835 NotebookApp] Starting buffering for 119aebf4-4d83-46f3-8e9e-fbb86f28ccda:686673fa956b4b2f857d71ff2177d00d
+[W 00:15:05.469 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20200406001017 (127.0.0.1) 1.98ms referer=http://localhost:9000/notebooks/Untitled.ipynb
+[I 00:16:51.824 NotebookApp] Saving file at /EDA.ipynb
+[I 00:21:05.117 NotebookApp] Saving file at /EDA.ipynb
+[I 00:22:17.417 NotebookApp] Saving file at /data/json_schema.txt
+[I 00:22:40.455 NotebookApp] Saving file at /data/json_schema.txt
+[I 00:22:53.091 NotebookApp] Saving file at /data/json_schema.txt
+[I 00:23:06.010 NotebookApp] Saving file at /EDA.ipynb
+[I 00:39:06.026 NotebookApp] Saving file at /EDA.ipynb
+[I 00:39:13.618 NotebookApp] Starting buffering for 119aebf4-4d83-46f3-8e9e-fbb86f28ccda:8db79217485d4828844e6c91dc00030f
+[W 00:39:18.775 NotebookApp] delete /data/json_schema_formatted.txt
+[W 00:39:18.776 NotebookApp] Skipping trash for /mnt/raid/projects/CORD-19/data/json_schema_formatted.txt, on different device to home directory
+[W 00:39:18.850 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20200406001017 (127.0.0.1) 3.95ms referer=http://localhost:9000/notebooks/EDA.ipynb
+[I 00:41:18.670 NotebookApp] Saving file at /EDA.ipynb
+[I 00:45:18.362 NotebookApp] Saving file at /EDA.ipynb
+[I 00:47:18.362 NotebookApp] Saving file at /EDA.ipynb
+[I 00:49:18.523 NotebookApp] Saving file at /EDA.ipynb
+[I 00:51:18.653 NotebookApp] Saving file at /EDA.ipynb
+[I 00:53:18.540 NotebookApp] Saving file at /EDA.ipynb
+[I 00:57:18.609 NotebookApp] Saving file at /EDA.ipynb
+[I 00:59:18.543 NotebookApp] Saving file at /EDA.ipynb
+[I 01:01:18.720 NotebookApp] Saving file at /EDA.ipynb
+[I 01:03:18.615 NotebookApp] Saving file at /EDA.ipynb
+[I 01:05:18.543 NotebookApp] Saving file at /EDA.ipynb
+[I 01:07:18.632 NotebookApp] Saving file at /EDA.ipynb
+[I 01:08:05.640 NotebookApp] Saving file at /EDA.ipynb
+[I 01:09:18.448 NotebookApp] Saving file at /EDA.ipynb
+[I 01:11:18.596 NotebookApp] Saving file at /EDA.ipynb
+[I 01:13:18.603 NotebookApp] Saving file at /EDA.ipynb
+[I 01:15:18.511 NotebookApp] Saving file at /EDA.ipynb
+[I 01:17:18.601 NotebookApp] Saving file at /EDA.ipynb
+[I 01:18:32.314 NotebookApp] Kernel interrupted: 119aebf4-4d83-46f3-8e9e-fbb86f28ccda
+[I 01:19:18.625 NotebookApp] Saving file at /EDA.ipynb
+[I 01:21:18.555 NotebookApp] Saving file at /EDA.ipynb
+[I 01:23:18.633 NotebookApp] Saving file at /EDA.ipynb
+[I 01:25:18.490 NotebookApp] Saving file at /EDA.ipynb
+[I 01:37:18.678 NotebookApp] Saving file at /EDA.ipynb
+[I 01:39:18.656 NotebookApp] Saving file at /EDA.ipynb
+[I 01:41:18.602 NotebookApp] Saving file at /EDA.ipynb
+[I 01:43:18.579 NotebookApp] Saving file at /EDA.ipynb
+[I 01:45:18.639 NotebookApp] Saving file at /EDA.ipynb
+[I 01:45:50.622 NotebookApp] Kernel interrupted: 119aebf4-4d83-46f3-8e9e-fbb86f28ccda
+[I 01:45:57.994 NotebookApp] Kernel interrupted: 119aebf4-4d83-46f3-8e9e-fbb86f28ccda
+[I 01:46:23.757 NotebookApp] Kernel interrupted: 119aebf4-4d83-46f3-8e9e-fbb86f28ccda
+[I 01:46:24.415 NotebookApp] Kernel interrupted: 119aebf4-4d83-46f3-8e9e-fbb86f28ccda
+[I 01:47:18.614 NotebookApp] Saving file at /EDA.ipynb
+[I 01:51:18.619 NotebookApp] Saving file at /EDA.ipynb
+[I 01:53:18.604 NotebookApp] Saving file at /EDA.ipynb
+[I 01:59:18.742 NotebookApp] Saving file at /EDA.ipynb
+[I 02:05:18.647 NotebookApp] Saving file at /EDA.ipynb
+[I 02:07:18.605 NotebookApp] Saving file at /EDA.ipynb
+[I 02:09:18.618 NotebookApp] Saving file at /EDA.ipynb
+[I 02:11:18.621 NotebookApp] Saving file at /EDA.ipynb
+[I 02:15:18.621 NotebookApp] Saving file at /EDA.ipynb
+[I 02:56:51.570 NotebookApp] Saving file at /EDA.ipynb
+[I 02:56:51.789 NotebookApp] Saving file at /EDA.ipynb
+[I 02:56:51.926 NotebookApp] Saving file at /EDA.ipynb
+[I 02:56:52.087 NotebookApp] Saving file at /EDA.ipynb
