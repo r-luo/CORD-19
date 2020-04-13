@@ -69,3 +69,57 @@
 [I 02:56:51.789 NotebookApp] Saving file at /EDA.ipynb
 [I 02:56:51.926 NotebookApp] Saving file at /EDA.ipynb
 [I 02:56:52.087 NotebookApp] Saving file at /EDA.ipynb
+[I 03:01:15.404 NotebookApp] Starting buffering for 119aebf4-4d83-46f3-8e9e-fbb86f28ccda:c12fe52f985a4dc09832b592e5543137
+[W 03:03:57.735 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20200406001017 (127.0.0.1) 2.53ms referer=http://localhost:9000/notebooks/EDA.ipynb
+[I 03:04:10.507 NotebookApp] Starting buffering for 119aebf4-4d83-46f3-8e9e-fbb86f28ccda:7fd9692e3bb14657844ff370e1c308cf
+[I 03:04:11.743 NotebookApp] Restoring connection for 119aebf4-4d83-46f3-8e9e-fbb86f28ccda:7fd9692e3bb14657844ff370e1c308cf
+[W 03:05:41.745 NotebookApp] WebSocket ping timeout after 90001 ms.
+[I 03:05:46.749 NotebookApp] Starting buffering for 119aebf4-4d83-46f3-8e9e-fbb86f28ccda:7fd9692e3bb14657844ff370e1c308cf
+[I 16:05:41.291 NotebookApp] Restoring connection for 119aebf4-4d83-46f3-8e9e-fbb86f28ccda:7fd9692e3bb14657844ff370e1c308cf
+[I 16:11:43.559 NotebookApp] Saving file at /EDA.ipynb
+[I 16:15:43.336 NotebookApp] Saving file at /EDA.ipynb
+[I 16:17:43.212 NotebookApp] Saving file at /EDA.ipynb
+[I 16:19:18.084 NotebookApp] Kernel interrupted: 119aebf4-4d83-46f3-8e9e-fbb86f28ccda
+[I 16:19:43.302 NotebookApp] Saving file at /EDA.ipynb
+[I 16:21:43.188 NotebookApp] Saving file at /EDA.ipynb
+[I 16:23:43.243 NotebookApp] Saving file at /EDA.ipynb
+[I 17:03:44.351 NotebookApp] Saving file at /EDA.ipynb
+[I 17:21:44.179 NotebookApp] Saving file at /EDA.ipynb
+[I 17:38:45.859 NotebookApp] Starting buffering for 119aebf4-4d83-46f3-8e9e-fbb86f28ccda:7fd9692e3bb14657844ff370e1c308cf
+[I 17:38:47.419 NotebookApp] Restoring connection for 119aebf4-4d83-46f3-8e9e-fbb86f28ccda:7fd9692e3bb14657844ff370e1c308cf
+[W 17:40:17.420 NotebookApp] WebSocket ping timeout after 90001 ms.
+[I 17:40:22.423 NotebookApp] Starting buffering for 119aebf4-4d83-46f3-8e9e-fbb86f28ccda:7fd9692e3bb14657844ff370e1c308cf
+[W 01:21:44.186 NotebookApp] 404 GET /tree/projects (127.0.0.1) 2.93ms referer=None
+[W 01:23:12.758 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20200406001017 (127.0.0.1) 2.61ms referer=http://localhost:9000/notebooks/EDA.ipynb
+[I 01:25:31.614 NotebookApp] Creating new file in 
+[W 01:25:36.209 NotebookApp] delete /untitled.txt
+[W 01:25:36.209 NotebookApp] Skipping trash for /mnt/raid/projects/CORD-19/untitled.txt, on different device to home directory
+[I 01:25:37.437 NotebookApp] Creating new directory in 
+[I 02:26:01.491 NotebookApp] Starting buffering for 119aebf4-4d83-46f3-8e9e-fbb86f28ccda:62ab8b23656945ab88d1956172867b2d
+[I 02:26:03.342 NotebookApp] Restoring connection for 119aebf4-4d83-46f3-8e9e-fbb86f28ccda:62ab8b23656945ab88d1956172867b2d
+[W 02:27:33.343 NotebookApp] WebSocket ping timeout after 90001 ms.
+[I 02:27:38.345 NotebookApp] Starting buffering for 119aebf4-4d83-46f3-8e9e-fbb86f28ccda:62ab8b23656945ab88d1956172867b2d
+[I 15:11:14.093 NotebookApp] Restoring connection for 119aebf4-4d83-46f3-8e9e-fbb86f28ccda:62ab8b23656945ab88d1956172867b2d
+[I 16:00:37.852 NotebookApp] New terminal with automatic name: 1
+TermSocket.open: 1
+TermSocket.open: Opened 1
+Websocket closed
+[I 16:05:23.353 NotebookApp] EOF on FD 42; stopping reading
+[I 16:05:23.454 NotebookApp] Terminal 1 closed
+[I 16:57:24.898 NotebookApp] Starting buffering for 119aebf4-4d83-46f3-8e9e-fbb86f28ccda:62ab8b23656945ab88d1956172867b2d
+[I 16:57:30.378 NotebookApp] Creating new file in 
+[I 17:10:47.876 NotebookApp] Saving file at /resources.md
+[I 17:21:20.749 NotebookApp] Saving file at /resources.md
+[I 17:23:07.934 NotebookApp] Saving file at /resources.md
+[I 21:03:52.651 NotebookApp] Saving file at /resources.md
+[I 21:24:40.261 NotebookApp] Saving file at /resources.md
+[I 21:51:50.818 NotebookApp] Saving file at /resources.md
+[I 21:55:46.785 NotebookApp] Saving file at /resources.md
+[I 22:03:42.611 NotebookApp] Saving file at /resources.md
+[I 22:03:51.216 NotebookApp] Saving file at /resources.md
+[I 22:05:38.511 NotebookApp] Saving file at /resources.md
+[I 22:06:50.624 NotebookApp] Saving file at /resources.md
+[I 22:08:05.570 NotebookApp] Saving file at /resources.md
+[I 22:08:15.401 NotebookApp] New terminal with automatic name: 1
+TermSocket.open: 1
+TermSocket.open: Opened 1
