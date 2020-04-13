@@ -68,10 +68,10 @@ Other Kaggle solutions
         - research based on outside data (coronavirus chronological data)
 
 Not yet achieved:
-    - taking into account of agreement / disagreement across papers on the same topic
-    - knowledge extraction, e.g. entity relations
-    - experimental methods and results validity
-    - statistical meta-analysis
+- taking into account of agreement / disagreement across papers on the same topic
+- knowledge extraction, e.g. entity relations
+- experimental methods and results validity
+- statistical meta-analysis
 
 Tools:
 - CoreNLP
